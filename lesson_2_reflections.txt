@@ -10,3 +10,7 @@ What value do you think it offers?
 	Files wchich are logically unrelated do not need to be commtted together.
 	This means less file commits overall, keeping the complexity down when
 	searching your commit histories.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	I don't know the answer to this question
